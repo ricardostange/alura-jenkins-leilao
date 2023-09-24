@@ -1,4 +1,0 @@
-#!/bin/sh
-echo look at me I am the after git script
-pwd
-# call the script you want
